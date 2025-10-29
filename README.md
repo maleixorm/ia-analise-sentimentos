@@ -9,4 +9,10 @@ Análise de sentimentos é um processo de processamento de linguagem natural (PL
 - resumo de texto
 - entre outros
 ---
-Neste momento, o foco principal é analizar opiniões de clientes da amazon sobre produtos adquiridos.
+Neste momento, o foco principal é analizar opiniões de clientes da amazon sobre um livro adquirido.
+---
+## Avaliação dos Clientes
+![analise](images/analise.png)
+---
+## Resultado da análise de sentimento (Satisfação)
+![avaliacoes](images/avaliacoes.png)
