@@ -15,4 +15,4 @@ Neste momento, o foco principal é analizar opiniões de clientes da amazon sobr
 ![analise](images/analise.png)
 ---
 ## Resultado da análise de sentimento (Satisfação)
-![avaliacoes](images/avaliacoes.png)
+![resultado](images/avaliacoes.png)
